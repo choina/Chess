@@ -16,9 +16,8 @@ namespace Chess
         {
             InitializeComponent();
             //this.TopMost = true; // this will set it on top of everything, including the taskbar
-           // this.FormBorderStyle = FormBorderStyle.None; // remove the title bar
+            // this.FormBorderStyle = FormBorderStyle.None; // remove the title bar
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
             Application.Exit();
